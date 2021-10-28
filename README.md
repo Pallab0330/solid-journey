@@ -11,7 +11,7 @@ Todo:
 - Logging Implementations (NLog or Serilog)
     - Structured Logging
 - AutoMapper
-- Docker
+- Dockerr
 - Template
 - Cake?
 - AWS?
